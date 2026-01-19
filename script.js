@@ -17,6 +17,8 @@ const tracks = [
   "64HBLJQcr4KpIuCT9W72Fq",
   "1sBTQCKkwXX8NPQE8qSqcP",
   "0yMITXNSc0ZQ4ladG3gDhy",
+  "7wFEzF8FbofVlQS1OcbghM",
+  "0StsGYxWvxpQUrQw8hTo1r",
   "0EGGa3h5zNpeLN3D5OSxxs"
 ];
 
